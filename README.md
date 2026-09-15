@@ -78,6 +78,13 @@ Example input:
   - unsmoothed: `count / classCount`
   - smoothed (Laplace): `(count + 1) / (classCount + distinctValuesForAttribute)`
 
-## Author
+## Project Background
 
-Student project for Naive Bayes classification assignment.
+I created this project independently for an Artificial Intelligence course at
+the Polish-Japanese Academy of Information Technology. It demonstrates
+probabilistic classification, Laplace smoothing, model evaluation, and
+interactive input handling implemented from scratch in C++.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
